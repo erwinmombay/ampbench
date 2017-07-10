@@ -13,7 +13,6 @@
  * See the License for the specific language governing permissions and
  * limitations under the License.
  */
-const chrome = require('sinon-chrome/extensions');
 
 import {
   isSupported,
